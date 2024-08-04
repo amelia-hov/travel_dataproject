@@ -15,4 +15,4 @@ This is the code that I think should be able to import my Excel file to the pand
 
 23/07 - Made more tables using data of other states by copying and pasting the functions and changing what needed to be changed.
 
-04/08 - Realised that my data was only the amount of DEPARTURES. I decided to incorporate the use of the amount of ARRIVALS so that I can compare the data and find the problems that might've caused the data to increase or decrease.
+04/08 - Realised that my data was only the amount of DEPARTURES. I decided to incorporate the use of the amount of ARRIVALS so that I can compare the data and find the problems that might've caused the data to increase or decrease. Today I successfully made a map of Aus.
