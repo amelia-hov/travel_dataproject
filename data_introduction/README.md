@@ -16,3 +16,7 @@ This is the code that I think should be able to import my Excel file to the pand
 23/07 - Made more tables using data of other states by copying and pasting the functions and changing what needed to be changed.
 
 04/08 - Realised that my data was only the amount of DEPARTURES. I decided to incorporate the use of the amount of ARRIVALS so that I can compare the data and find the problems that might've caused the data to increase or decrease. Today I successfully made a map of Aus. I also had a play around with the different functions getting assistance from CHATGPT whenever I was unsure of the error meanings.OK so I basically changed things that may have caused A LOT of issues. Argh
+
+07/08: Made some graphs and attempted maps. Graphs were made to demonstrate the different numbers for each state. I decided to
+
+11/08 - Was going to incorporate a Choropleth map, but couldn't. There was always errors involved.
