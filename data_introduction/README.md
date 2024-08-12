@@ -20,3 +20,5 @@ This is the code that I think should be able to import my Excel file to the pand
 07/08: Made some graphs and attempted maps. Graphs were made to demonstrate the different numbers for each state. I decided to
 
 11/08 - Was going to incorporate a Choropleth map, but couldn't. There was always errors involved.
+
+12/08 - Today's goal is to make 2 pie charts.
