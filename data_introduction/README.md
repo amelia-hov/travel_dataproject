@@ -22,3 +22,5 @@ This is the code that I think should be able to import my Excel file to the pand
 11/08 - Was going to incorporate a Choropleth map, but couldn't. There was always errors involved.
 
 12/08 - Today's goal is to make 2 pie charts. I made 2 piecharts and am on the way to reorganising my data in order for the presentation to go smoothly. I am worried about the length of my presentation because I haven't planned it to 100% yet. I am just happy to be nearly complete and am ready to sleep after this assessment is done. Actually, starting python was so so so tough but now that it's been 12 weeks, I am actually able to kinda understand the different functions and components. THANK GOODNESS. :>
+
+13/08 - Editing text and reorganising graphs. THen to rise to make it slides
